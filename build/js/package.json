@@ -1,0 +1,23 @@
+{
+  "name": "untitled",
+  "version": "1.0-SNAPSHOT",
+  "private": true,
+  "workspaces": [
+    "packages\\untitled",
+    "packages\\untitled-test",
+    "packages_imported\\kotlin\\1.8.0",
+    "packages_imported\\kotlin-wrappers-kotlin-react-core-js-ir\\18.2.0-pre.385",
+    "packages_imported\\kotlin-wrappers-kotlin-csstype-js-ir\\3.1.1-pre.385",
+    "packages_imported\\kotlin-wrappers-kotlin-react-dom-js-ir\\18.2.0-pre.385",
+    "packages_imported\\kotlin-wrappers-kotlin-browser-js-ir\\0.0.1-pre.385",
+    "packages_imported\\kotlin-wrappers-kotlin-emotion-js-ir\\11.10.4-pre.385",
+    "packages_imported\\kotlin-test-js-runner\\1.8.0",
+    "packages_imported\\kotlin-test\\1.8.0"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

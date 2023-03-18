@@ -1,0 +1,55 @@
+{
+  "version": "9",
+  "items": {
+    "f447c0c56abf53f21fcbcf9971d40c5f": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-common\\1.8.0\\f7197e7cc76453ac59f8b0f8d5137cc600becd36\\kotlin-stdlib-common-1.8.0.jar"
+    },
+    "9a9ac65ef95054b26ff40b74df6af625": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-js\\1.8.0\\b4f5f83089cbb70f0b6d81ecffbf3cbf13f4a8b9\\kotlin-stdlib-js-1.8.0.jar",
+      "target": "kotlin\\1.8.0"
+    },
+    "b3a76ce3ba4660e49395c1fc911f5bb6": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin-wrappers\\kotlin-react\\18.2.0-pre.385\\d14798e7e998208aeb379a42f39198f54c1b226c\\kotlin-react-18.2.0-pre.385.klib"
+    },
+    "1644e4df653756442602e9e0cbd4eb91": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin-wrappers\\kotlin-react-core\\18.2.0-pre.385\\867ef75337099ebafce08a0fc935512021bfa82\\kotlin-react-core-18.2.0-pre.385.klib",
+      "target": "kotlin-wrappers-kotlin-react-core-js-ir\\18.2.0-pre.385"
+    },
+    "f0078293cf474e8bc92714c2bc715b74": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin-wrappers\\kotlin-csstype\\3.1.1-pre.385\\9996ceb28e106935617141179fe9a1afeb4073f2\\kotlin-csstype-3.1.1-pre.385.klib",
+      "target": "kotlin-wrappers-kotlin-csstype-js-ir\\3.1.1-pre.385"
+    },
+    "7686710be1389f6eb1ee8ac0025d434e": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin-wrappers\\kotlin-js\\1.0.0-pre.385\\535f0a45821ae31ae9391cc53a2849c1339bd08c\\kotlin-js-1.0.0-pre.385.klib"
+    },
+    "87b37b026e9680692b36e7c4c08334c2": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-js\\1.6.4\\791d62c16e6fad7cc9b1e6fafe88a3d454744d99\\kotlinx-coroutines-core-jsir-1.6.4.klib"
+    },
+    "489089308e6bacd4b18fc93c501bb01c": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\atomicfu-js\\0.17.3\\5fd992f78532945e29a1c54279eafffe2a0c95fe\\atomicfu-jsir-0.17.3.klib"
+    },
+    "68b4fc3260b20bef86b65f0a39fae75a": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\atomicfu\\1.6.21\\f486917a9c89e5c7d5d08009d58ad810a57a7011\\atomicfu-1.6.21.jar"
+    },
+    "d463df28dae76d9eba37a1479e52dc00": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin-wrappers\\kotlin-react-dom\\18.2.0-pre.385\\c9d90dfd4dd58423f43bbb6600d6403e3f290a3d\\kotlin-react-dom-18.2.0-pre.385.klib",
+      "target": "kotlin-wrappers-kotlin-react-dom-js-ir\\18.2.0-pre.385"
+    },
+    "098c63f3246fb0ea4e8d81ce803a2a6d": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin-wrappers\\kotlin-browser\\0.0.1-pre.385\\9fb9d761fa3246119cf1d9bd232f2e2bca855f2d\\kotlin-browser-0.0.1-pre.385.klib",
+      "target": "kotlin-wrappers-kotlin-browser-js-ir\\0.0.1-pre.385"
+    },
+    "2be10864d9cbdbf46a91ccd850a5b072": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin-wrappers\\kotlin-emotion\\11.10.4-pre.385\\6e15028d79b8e5fb666e45d029cf5142dc4099f3\\kotlin-emotion-11.10.4-pre.385.klib",
+      "target": "kotlin-wrappers-kotlin-emotion-js-ir\\11.10.4-pre.385"
+    },
+    "1ac085e2f277a9a2ed0382b398248c53": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js-runner\\1.8.0\\b4f77e5ecd9c56fc312d90cb0ab919ee452dfb4\\kotlin-test-js-runner-1.8.0.jar",
+      "target": "kotlin-test-js-runner\\1.8.0"
+    },
+    "0a62abb6cf08e01efcae03737e0423a2": {
+      "src": "C:\\Users\\rodri\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js\\1.8.0\\3af4dadff9462ba38f857b60a1352d5fec65d100\\kotlin-test-js-1.8.0.jar",
+      "target": "kotlin-test\\1.8.0"
+    }
+  }
+}

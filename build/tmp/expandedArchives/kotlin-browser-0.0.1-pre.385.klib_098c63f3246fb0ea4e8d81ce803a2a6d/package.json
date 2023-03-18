@@ -1,0 +1,14 @@
+{
+  "name": "kotlin-wrappers-kotlin-browser-js-ir",
+  "version": "0.0.1-pre.385",
+  "main": "kotlin-wrappers-kotlin-browser-js-ir.js",
+  "types": "kotlin-wrappers-kotlin-browser-js-ir.d.ts",
+  "devDependencies": {
+    "@types/webrtc": "^0.0.32",
+    "dukat": "0.5.8-rc.4"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
